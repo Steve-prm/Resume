@@ -1,0 +1,38 @@
+.img-fluid {
+    border: 10px solid #0E86D4;
+    border-radius: 50%;
+}
+
+.gradient-background {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background: #055C9D;
+  }
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    background-color: black;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+footer {
+    background-color: #055C9D;
+}
+
+.bi-envelope, .bi-telephone {
+    margin-right: 1rem;
+}
+
+.github {
+    color:#fff;
+    text-decoration: none;
+}
